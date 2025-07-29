@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm John Lloyd C. Castañeda👋
 
-<!--
-**amnotysh/amnotysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Flask, Python, and backend development.  
+Currently building CRUD apps and exploring deployment tools like Render and GitHub Pages.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Amnotysh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnotysh&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amnotysh&layout=compact&theme=tokyonight)
+
+## 💻 Tools I Use
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
